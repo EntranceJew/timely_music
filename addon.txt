@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+    "name"              "Timely Music"
+    "version"           "1"
+    "up_date"           "07/14/21"
+    "author_name"       "EntranceJew"
+    "author_email"      ""
+    "author_url"        "https://github.com/EntranceJew/gmod-timely-music"
+    "info"              "Listen to music based on the time of day."
+    "override"          "0"
+}
