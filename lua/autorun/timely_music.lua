@@ -47,11 +47,11 @@ end
   -- TODO: manual NPC class overrides
   -- TODO: song_end event for resolvers that pick a new track instead of looping
   -- TODO: scan and load all file names, if a duplicate file is found in the same addon, refuse to load it
-  -- TODO: scan and load all 
+  -- TODO: scan and load all
   -- TODO: implement MTI:Path() for use in content loader scripts
   -- TODO: weather chain for "Clear" sometimes becomes {"Clear", "Fog", "Clear"}
   -- TODO: PvP detection / death music
-  
+  -- TODO: add server-sided component for reporting witnesses
 */
 local join_time = nil
 local is_reload = false
